@@ -55,10 +55,7 @@ This demonstrates the cconnection of MySQL database and Node.js to create a simp
 
 ## Setup the ```.env``` file
 ```.env
-DB_USERNAME=root
-DB_HOST=localhost
-DB_PASSWORD=your_password
-DB_NAME=hospital_db
+
 ```
 
 <br><br>
